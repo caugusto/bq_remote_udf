@@ -1,2 +1,0 @@
-google-cloud-language==2.4.1
-pandas
