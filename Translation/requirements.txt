@@ -1,1 +1,2 @@
+# Google Cloud Translation API package required
 google-cloud-translate
